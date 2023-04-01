@@ -1,0 +1,68 @@
+{
+    "sources": [
+        {
+            "ISBN": "978-958-600-142-7",
+            "author": [
+                {
+                    "family": "Chao",
+                    "given": "Lincoln L."
+                },
+                {
+                    "family": "Castaño",
+                    "given": "José María"
+                }
+            ],
+            "edition": "3a. ed",
+            "id": "chao_estadisticas_1993",
+            "issued": {
+                "date-parts": [
+                    [
+                        1993
+                    ]
+                ]
+            },
+            "publisher": "McGraw-Hill",
+            "publisher-place": "Bogotá",
+            "title": "Estadísticas para las ciencias administrativas",
+            "type": "book"
+        },
+        {
+            "DOI": "10.5281/zenodo.3462677",
+            "URL": "https://holatam.github.io/eph/",
+            "author": [
+                {
+                    "family": "Kozlowski",
+                    "given": "Diego"
+                },
+                {
+                    "family": "Tiscornia",
+                    "given": "Pablo"
+                },
+                {
+                    "family": "Weksler",
+                    "given": "Guido"
+                },
+                {
+                    "family": "Rosati",
+                    "given": "German"
+                },
+                {
+                    "family": "Shokida",
+                    "given": "Natsumi"
+                }
+            ],
+            "id": "kozlowski2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "title": "Eph: Argentina’s permanent household survey data and manipulation utilities",
+            "title-short": "Eph",
+            "type": "book"
+        }
+    ],
+    "project_biblios": []
+}
